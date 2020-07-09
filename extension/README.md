@@ -38,10 +38,10 @@ store.set('blacklist', [
 
 ## Install
 
-Download this sucker.
-open chrome://extensions
-toggle on "Developer mode"
-load unpacked
-select this project
+* Download this sucker.
+* open chrome://extensions
+* toggle on "Developer mode"
+* load unpacked
+* select this project
 
-![install](./install.png)
+![install](https://raw.githubusercontent.com/reergymerej/web-screen/master/install.png)
